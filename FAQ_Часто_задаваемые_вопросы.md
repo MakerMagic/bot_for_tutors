@@ -21,7 +21,7 @@
 
 ### Нужно ли мне знать программирование?
 
-**Нет!** Следуй пошаговой инструкции в [SETUP.md](SETUP.md) - там всё объяснено максимально просто.
+**Нет!** 
 
 Если умеешь:
 - Скопировать и вставить текст
@@ -324,8 +324,7 @@ scheduler.add_job(send_payment_reminders, 'cron', hour=10, minute=0, args=[appli
 
 1. Сначала поищи ответ:
    - В этом FAQ
-   - В [README.md](README.md)
-   - В [SETUP.md](SETUP.md)
+   - @classiceqw telegram
 
 2. Не нашел? Открой [Issue на GitHub](../../issues)
 
@@ -339,11 +338,6 @@ scheduler.add_job(send_payment_reminders, 'cron', hour=10, minute=0, args=[appli
 - Что произошло
 - Скриншот (если возможно)
 
-### Хочу помочь проекту!
-
-Круто! Смотри [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
 
 **Не нашел ответ на свой вопрос?**
 
